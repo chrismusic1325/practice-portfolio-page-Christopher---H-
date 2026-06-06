@@ -1,0 +1,18 @@
+Practice: Portfolio Page Instructions
+
+Goal:
+Create a static HTML portfolio page that shows basic HTML structure, organization, and form elements.
+
+Required parts:
+1. Add a header section with your name and a short tagline.
+2. Add an About Me section using paragraph tags.
+3. Add a Skills section using a table with rows and cells.
+4. Add a Contact Form section with:
+   - text input for name
+   - email input for email
+   - textarea for message
+   - submit button
+5. Use HTML structure tags correctly.
+6. Make sure all tags open and close correctly.
+7. Test the page in a browser.
+8. Submit the GitHub repository URL.

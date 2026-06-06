@@ -1,0 +1,43 @@
+Messy Work / Planning Notes
+
+Assignment:
+Build a simple portfolio page using HTML.
+
+Things I needed to include:
+- h1 header with my name
+- paragraph for About Me
+- skills table
+- ordered list for goals
+- unordered list for interests
+- image with alt text
+- contact form
+
+Tags practiced:
+html
+head
+title
+body
+h1
+h2
+p
+table
+tr
+th
+td
+ol
+ul
+li
+img
+form
+label
+input
+textarea
+
+Testing checklist:
+- Page opens in browser
+- Name and About Me section appear
+- Skills table appears correctly
+- Lists appear correctly
+- Image has alt text
+- Form has name, email, message, and submit button
+- File is saved as index.html

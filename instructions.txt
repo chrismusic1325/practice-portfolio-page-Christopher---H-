@@ -16,3 +16,26 @@ Required parts:
 6. Make sure all tags open and close correctly.
 7. Test the page in a browser.
 8. Submit the GitHub repository URL.
+
+=========================================
+HTML and CSS | Lesson 1
+Practice: Profile Page for Portfolio
+=========================================
+
+Requirements:
+
+1. Header section with name and short introduction.
+2. About Me section.
+3. Skills section using a list.
+4. Additional information section.
+5. Proper HTML structure.
+6. External CSS file.
+7. Styling using selectors.
+8. Adjust colors, fonts, spacing, and layout.
+9. Submit GitHub repository URL.
+
+Files:
+- index.html
+- style.css
+- instructions.txt
+- planning-notes.txt

@@ -41,3 +41,43 @@ Testing checklist:
 - Image has alt text
 - Form has name, email, message, and submit button
 - File is saved as index.html
+
+=========================================
+PLANNING NOTES / MESSY WORK
+=========================================
+
+Portfolio Page Plan
+
+Header:
+- Name
+- Introduction
+
+About Me:
+- Learning software development
+- Practicing HTML and CSS
+
+Skills:
+- HTML
+- GitHub
+- JavaScript
+
+Goals:
+- Improve HTML skills
+- Improve CSS skills
+- Build portfolio projects
+
+Additional Information:
+- Contact section
+- Footer
+
+CSS Plan:
+- Center main heading
+- Add colors
+- Add spacing
+- Style table
+- Improve readability
+
+Testing:
+- Open page in browser
+- Verify table displays correctly
+- Verify CSS loads correctly
